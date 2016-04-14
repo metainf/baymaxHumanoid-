@@ -1,0 +1,3 @@
+﻿"gapAngle" = 10deg
+"LegFront" = 30in
+"LegSide" = 30in
