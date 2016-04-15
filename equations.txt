@@ -1,3 +1,5 @@
-﻿"gapAngle" = 10deg
+﻿"cornerDistance"=2
+"legShortLength"=26
+"gapAngle" = 10deg
 "LegFront" = 30in
 "LegSide" = 30in
