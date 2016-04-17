@@ -1,5 +1,5 @@
-﻿"gapAngle" = 10deg
-"LegFront" = 30in
-"LegSide" = 30in
-"legShortLength"=26
-"footDistance"= 2 * "LegSide" * sin ( "gapAngle" / 2 )
+"gapAngle" = 10deg
+"LegFront" = 25in
+"LegSide" = 25in
+"legShortLength"=20
+"footDistance"= 2 * "LegFront" * sin ( "gapAngle" / 2 )
